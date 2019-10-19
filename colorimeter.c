@@ -1,5 +1,6 @@
 // Timing C/ASM Mix Example
-// Jason Losh
+// Diptin Dahal
+// Paras Sharma
 
 //-----------------------------------------------------------------------------
 // Hardware Target
